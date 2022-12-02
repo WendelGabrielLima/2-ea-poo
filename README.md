@@ -1,0 +1,3 @@
+Bem, meu segundo projeto em JAVA com a atividade de POO. Senti que evolui um pouco, mesmo que seja o básico...
+Ainda não usei os conceitos corretos de encapsulamento, mas irei melhorar nisso.
+O sistema consiste em um app/site para compra de ingressos para o CineTech.
